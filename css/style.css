@@ -1,0 +1,24 @@
+* {
+
+  font-family: 'Roboto Condensed', sans-serif;
+
+}
+.fontsize{
+  font-size: 50px;
+  margin-left: 500px;
+}
+.id1{
+  margin-left:580px;
+}
+
+}
+html, 
+body {
+height: 100%;
+}
+
+body {
+background-image: url(../img/campus-min.JPG);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+}
